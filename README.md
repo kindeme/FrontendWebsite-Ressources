@@ -19,3 +19,5 @@ https://devchallenges.io/ => devChallenges.io | Real-life Coding Challenges to b
 https://www.frontendmentor.io/ => Frontend Mentor | Front-end coding challenges using a real-life workflow
 
 https://www.udemy.com/user/5539ab2518198/ => Javascript for absolute beginner
+
+https://prismjs.com/ ⇒ Prism is a lightweight, extensible syntax highlighter
