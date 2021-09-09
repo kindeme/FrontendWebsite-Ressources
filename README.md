@@ -21,3 +21,5 @@ https://www.frontendmentor.io/ => Frontend Mentor | Front-end coding challenges 
 https://www.udemy.com/user/5539ab2518198/ => Javascript for absolute beginner
 
 https://prismjs.com/ ⇒ Prism is a lightweight, extensible syntax highlighter
+
+https://www.udemy.com/course/css-animation-transitions-and-transforms-creativity-course/ => css animation
