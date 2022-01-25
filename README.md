@@ -25,3 +25,19 @@ https://prismjs.com/ ⇒ Prism is a lightweight, extensible syntax highlighter
 https://www.udemy.com/course/css-animation-transitions-and-transforms-creativity-course/ => css animation
 
 https://www.wikihow.com/Copy-a-Website => how to copy a website
+
+ default setting links 
+ https://github.com/john-smilga/default-starter 
+
+css nuggets
+https://www.youtube.com/watch?v=_gu_2sqkFPk&list=PLnHJACx3NwAeS_Gru8OFZlrlbLBYV1pqb 
+ javascript nuggets
+https://www.youtube.com/watch?v=80KX6aD9R7M&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ 
+ Paul learning strategies 
+https://www.youtube.com/watch?v=iZimyyJHqpc 
+
+ Javascript challenges
+https://www.youtube.com/watch?v=yG03EvfHSIU&list=PLnHJACx3NwAdQElswAscNtHAZLAQYgpDA
+https://www.youtube.com/watch?v=cH7iqat59zA&list=PLnHJACx3NwAd4_8NInpLyZEl4SnhW2O3T
+
+
