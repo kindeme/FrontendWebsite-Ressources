@@ -31,8 +31,10 @@ https://www.wikihow.com/Copy-a-Website => how to copy a website
 
 css nuggets
 https://www.youtube.com/watch?v=_gu_2sqkFPk&list=PLnHJACx3NwAeS_Gru8OFZlrlbLBYV1pqb 
+
  javascript nuggets
 https://www.youtube.com/watch?v=80KX6aD9R7M&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ 
+
  Paul learning strategies 
 https://www.youtube.com/watch?v=iZimyyJHqpc 
 
